@@ -1,1 +1,44 @@
 /* Write your CSS here! */
+body{    
+    background-color: aquamarine;
+    margin: 8px;
+    display: block;
+    
+}
+#mainHeading {
+    align-items: center;
+    color: red;
+    margin-left: 20px;
+}
+.images{
+    width: 750px;
+    height: 600px;
+    margin-left: 30px;
+    border: solid black 2px;
+}
+.paragraph{
+    width: 720px;
+    font-size:larger;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.funParagraph{
+    width: 720px;
+    font-size:larger;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: green;
+}
+h3{
+    border-bottom: solid black 1px;
+}
+div{
+    background-color: aquamarine;
+}
+.descrip{
+    margin-left: 30px;
+    margin-top: 0;
+}
+#author{
+    padding: 10px;
+}
