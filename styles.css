@@ -8,7 +8,6 @@ body{
 #mainHeading {
     align-items: center;
     color: red;
-    display: flex;
     margin-left: 20px;
 }
 .images{
