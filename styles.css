@@ -30,6 +30,9 @@ body{
     margin-bottom: 20px;
     color: green;
 }
+h3{
+    border-bottom: solid black 1px;
+}
 .descrip{
     margin-left: 30px;
     margin-top: 0;
